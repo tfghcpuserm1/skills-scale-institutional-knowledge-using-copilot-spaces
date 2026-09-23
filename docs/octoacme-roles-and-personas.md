@@ -129,6 +129,7 @@ UX/UI Designers and Researchers ensure the team builds usable, customer-centered
 ### Interaction with Existing Roles
 - Works with Product Managers to translate customer problems into experience requirements
 - Consults with Developers on feasibility, implementation constraints, and interaction details
+- Coordinates with Project Managers on design milestones, handoffs, and dependency timing
 - Supports QA/Testing by clarifying usability and acceptance expectations
 
 ---
@@ -244,6 +245,7 @@ Customer Support and Operations representatives bring real-world customer impact
 ### Interaction with Existing Roles
 - Partners with Product Managers on customer value and service quality outcomes
 - Works with Project Managers on communication planning and coordination
+- Shares customer-impact insights with Developers to inform implementation and triage priorities
 - Supports QA/Testing and Release/DevOps on support readiness, known issues, and validation
 
 ---
@@ -300,6 +302,7 @@ Executive Sponsors provide strategic direction, resource alignment, and escalati
 ### Interaction with Existing Roles
 - Aligns with Product Managers on business outcomes and prioritization
 - Receives concise updates from Project Managers on health, milestones, and escalations
+- Reviews delivery signals from Developers (typically through engineering leadership) when risk or execution concerns require sponsor support
 - Provides decision authority when cross-functional trade-offs or risk issues require executive intervention
 
 ---
@@ -348,4 +351,3 @@ Typical handoffs include:
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - These cross-functional roles help teams clarify accountability, reduce ambiguity, and align execution with stakeholder expectations.
-
